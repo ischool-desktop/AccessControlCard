@@ -117,6 +117,7 @@
       <DependentUpon>SMSSendInquiry.cs</DependentUpon>
     </Compile>
     <Compile Include="ImportAccessControlCard_newStudent.cs" />
+    <Compile Include="LogObj.cs" />
     <Compile Include="Permissions.cs" />
     <Compile Include="StudentExtendControls\AccessExtendRecord.cs" />
     <Compile Include="StudentExtendControls\AccessStudentItem.cs" />
